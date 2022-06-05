@@ -26,6 +26,7 @@ updater.sh:
 
 bin/bcdboot:
 	BCD default boot partition updater by BigfootACA
+	https://github.com/BigfootACA/bcdboot
 	-
 
 bin/bash:
